@@ -1,4 +1,4 @@
-# 🎶 Generative Audio Sampler
+# Generative Audio Sampler
 A real-time desktop application that uses generative AI models to synthesize audio from text prompts, with an interactive FX chain (reverb, delay, distortion) and waveform visualization. Built using Python, PyTorch, and Tkinter, this tool offers a hands-on way to explore creative sound synthesis.
 
 # Project Demo
