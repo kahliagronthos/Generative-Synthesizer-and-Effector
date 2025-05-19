@@ -1,14 +1,14 @@
 # 🎶 Generative Audio Sampler
 A real-time desktop application that uses generative AI models to synthesize audio from text prompts, with an interactive FX chain (reverb, delay, distortion) and waveform visualization. Built using Python, PyTorch, and Tkinter, this tool offers a hands-on way to explore creative sound synthesis.
 
-# 📦 Project Demo
+# Project Demo
 <p align="center">
   <a href="https://drive.google.com/file/d/17NDivKAeehgqR5bQyC-ULeW65RS1iBfM/view?usp=drive_link"><img src="https://github.com/user-attachments/assets/48c912e4-a5ac-4b0a-ac9b-a1a0d089546f" alt="Project Demo Video" style="height:500px;"></a>
 </p>
 
   This project combines state-of-the-art generative audio models (e.g., TangoFlux) with an interactive GUI. Users can enter a text prompt to generate unique audio clips and apply real-time audio effects using rotary knobs. The app supports playback, waveform visualization, and saving of generated audio.
 
-# 🚀 Installation
+# Installation
 Prerequisites:
 - Python 3.8+
 - Anaconda (Or venv is okay)
@@ -35,7 +35,7 @@ python3 -m pip install -r requirements.txt
 ```
 - Install the project requirements. (Note: this will take a while)
 
-# ▶️ Running the Application
+# Running the Application
 ```PowerShell
 python3 src/main.py
 ```
